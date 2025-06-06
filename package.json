@@ -29,7 +29,7 @@
     "jsdom": "13.2.0",
     "webpack": "4.29.4",
     "webpack-cli": "3.2.3",
-    "webpack-dev-server": "3.1.14"
+    "webpack-dev-server": "5.2.1"
   },
   "keywords": [
     "breadcrumb",
